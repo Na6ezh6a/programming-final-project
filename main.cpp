@@ -1,3 +1,11 @@
+/**
+ * Memory_Cards -- Приложения с карточками для запоминания
+ *
+ * Copyright (c) 2021, Nadezhda Rymanceva <nrumyanc@cs.petrsu.ru>
+ *
+ * This code is licensed under a MIT-style license.
+ */
+
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>

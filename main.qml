@@ -1,3 +1,11 @@
+/**
+ * Memory_Cards -- Приложения с карточками для запоминания
+ *
+ * Copyright (c) 2021, Nadezhda Rymanceva <nrumyanc@cs.petrsu.ru>
+ *
+ * This code is licensed under a MIT-style license.
+ */
+
 import QtQuick 2.12
 import QtQuick.Window 2.12
 import QtQuick.Controls 2.12
